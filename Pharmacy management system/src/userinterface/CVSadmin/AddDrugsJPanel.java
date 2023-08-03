@@ -4,6 +4,12 @@
  * and open the template in the editor.
  */
 package userinterface.CVSadmin;
+/*
+ *Group members:
+ *Tetteh Ebenezer - 10886647
+ *Bernard Essilfie - 10890849
+ *Antwi Anthony Kwame Brown - 10879914
+ **/
 
 import business.Drug;
 import business.DrugCatalog;
