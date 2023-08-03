@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Rushabh
+ * @author Tetteh Group
  */
 public class ViewDrugDetailJPanel extends javax.swing.JPanel {
 
