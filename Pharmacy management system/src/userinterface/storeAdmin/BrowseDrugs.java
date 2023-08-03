@@ -21,7 +21,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Neha Ghate
+ * @author Tetteh Group
  */
 public class BrowseDrugs extends javax.swing.JPanel {
 
