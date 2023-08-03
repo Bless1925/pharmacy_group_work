@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Mihir Mehta / Hechen Gao
+ * @author Tetteh Group
  */
 public class ManagePharmacy extends javax.swing.JPanel {
 
