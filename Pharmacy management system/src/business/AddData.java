@@ -10,6 +10,10 @@ import java.util.ArrayList;
 /**
  *
  * @author Tetteh Group
+  Group members:
+ Tetteh Ebenezer - 10886647
+ Bernard Essilfie - 10890849
+ Antwi Anthony Kwame Brown - 10879914
  */
 public class AddData {
     
