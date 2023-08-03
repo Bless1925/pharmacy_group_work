@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Neha Ghate
+ * @author Tetteh Group
  */
 public class LoginStoreJPanel extends javax.swing.JPanel {
 
