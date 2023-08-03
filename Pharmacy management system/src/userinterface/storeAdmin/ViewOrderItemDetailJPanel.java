@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Zerel
+ * @author Tetteh Ebenezer
  */
 public class ViewOrderItemDetailJPanel extends javax.swing.JPanel {
 
