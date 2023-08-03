@@ -9,6 +9,8 @@ package userinterface.CVSadmin;
  *Tetteh Ebenezer - 10886647
  *Bernard Essilfie - 10890849
  *Antwi Anthony Kwame Brown - 10879914
+  *Naa Adrobo Anum - 10897116
+ *James Asiwaye - 10867091
  **/
 
 import business.Drug;
