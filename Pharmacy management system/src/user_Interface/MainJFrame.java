@@ -22,6 +22,8 @@ import userinterface.storeAdmin.StoreWorkAreaJPanel;
  Tetteh Ebenezer - 10886647
  Bernard Essilfie - 10890849
  Antwi Anthony Kwame Brown - 10879914
+ Naa Adrobo Anum - 10897116
+ James Asiwaye - 10867091
  */
 public class MainJFrame extends javax.swing.JFrame {
 
