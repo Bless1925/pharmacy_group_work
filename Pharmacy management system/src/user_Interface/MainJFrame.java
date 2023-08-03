@@ -18,7 +18,10 @@ import userinterface.storeAdmin.StoreWorkAreaJPanel;
 /**
  *
  * @author Tetteh Group
- ID : 10886647
+ Group members:
+ Tetteh Ebenezer - 10886647
+ Bernard Essilfie - 10890849
+ Antwi Anthony Kwame Brown - 10879914
  */
 public class MainJFrame extends javax.swing.JFrame {
 
