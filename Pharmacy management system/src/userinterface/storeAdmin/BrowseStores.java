@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Neha Ghate
+ * @author Tetteh Group
  */
 public class BrowseStores extends javax.swing.JPanel {
 
